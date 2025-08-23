@@ -2,7 +2,7 @@
 
 [in Japanese]  
   
-鈴木英男: PARI/GPで計算しながら学ぶ 整数論・暗号理論・符号理論, 近代科学社, 2025.8. 
+鈴木英男: PARI/GPで計算しながら学ぶ 整数論・暗号理論・符号理論, 近代科学社, 2025.8.29  
 https://www.kindaikagaku.co.jp/book_list/detail/9784764961159/  
 https://www.amazon.co.jp/dp/4764907577/  
 の  
@@ -50,5 +50,8 @@ GCM (Galois/counter) モード ..... 175,209
   
   
 誤  
+正  
+  
+
 正  
   
