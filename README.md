@@ -28,11 +28,13 @@ p.368 [Melchor 他]
 https://pqc-hqc.org/|  
 正  
 https://pqc-hqc.org/  
+  
 p.372 [Shoup]  
 誤  
 https://www.shoup.net/|  
 正  
 https://www.shoup.net/  
+  
 p.374 [WEF]  
 誤  
 https://jp.weforum.org/publications/the-next-generation-of-data-sharing-|...  
