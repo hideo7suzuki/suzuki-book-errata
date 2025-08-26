@@ -2,7 +2,7 @@
 
 [in Japanese]  
   
-鈴木英男: 整数論・暗号理論・符号理論:PARI/GPで計算しながら学ぶ, 近代科学社, 2025.8.29.  
+鈴木英男: 整数論・暗号理論・符号理論:PARI/GPで計算しながら学ぶ, 近代科学社, ISBN:9784764907577, 2025.8.29.  
 https://www.kindaikagaku.co.jp/book_list/detail/9784764961159/  
 https://www.amazon.co.jp/dp/4764907577/  
 の  
