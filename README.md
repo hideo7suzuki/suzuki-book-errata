@@ -28,8 +28,7 @@ p.345 8行目と9行目の2箇所
 正  
 10.6  
   
-引用・参考文献の | 削除  
-p.368 [Melchor 他]  
+p.368 [Melchor 他]   | 削除  
 誤  
 https://pqc-hqc.org/|  
 正  
@@ -41,13 +40,13 @@ p.367
 正  
 [Lenstra2]  
   
-p.372 [Shoup]  
+p.372 [Shoup]   | 削除  
 誤  
 https://www.shoup.net/|  
 正  
 https://www.shoup.net/  
   
-p.374 [WEF]  
+p.374 [WEF]   | 削除  
 誤  
 https://jp.weforum.org/publications/the-next-generation-of-data-sharing-|...  
 正  
