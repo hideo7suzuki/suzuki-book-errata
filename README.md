@@ -34,6 +34,12 @@ p.368 [Melchor 他]
 https://pqc-hqc.org/|  
 正  
 https://pqc-hqc.org/  
+
+p.367  
+誤  
+[Lenstra2]]  
+正  
+[Lenstra2]  
   
 p.372 [Shoup]  
 誤  
