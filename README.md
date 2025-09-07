@@ -27,18 +27,18 @@ p.345 8行目と9行目の2箇所
 10.5  
 正  
 10.6  
-  
-p.368 [Melchor 他]   | 削除  
-誤  
-https://pqc-hqc.org/|  
-正  
-https://pqc-hqc.org/  
 
 p.367  
 誤  
 [Lenstra2]]  
 正  
 [Lenstra2]  
+  
+p.368 [Melchor 他]   | 削除  
+誤  
+https://pqc-hqc.org/|  
+正  
+https://pqc-hqc.org/  
   
 p.372 [Shoup]   | 削除  
 誤  
