@@ -88,6 +88,15 @@ X
 [1 1 1 0 1 0 0]  
 [1 1 1 1 1 1 1]  
   
+p.344 [Ubuntu (Linux) 用sagemath package(pkg) のinstall]  
+が大幅に改訂されたので  
+https://doc.sagemath.org/html/en/installation/index.html  
+の  
+Linux  
+の  
+No development  
+の項目を参照  
+  
 p.345 8行目と9行目の2箇所  
 誤  
 10.5  
