@@ -57,7 +57,13 @@ p.181 10行目
 1254^11 = (F) × (B) =   
 正  
 1254^11 = (F) × (R) =    
-
+  
+p.197 脚注 15  
+誤  
+https://www.ipa.go.jp/security/pki/084.html  
+正  
+https://web.archive.org/web/20200130073335/https://www.ipa.go.jp/security/pki/084.html  
+  
 p.262 下から2行目  
 誤  
 ≡0-  
