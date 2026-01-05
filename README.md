@@ -8,18 +8,6 @@ https://www.amazon.co.jp/dp/4764907577/
 の  
 2025.8.29版 Ver.1.0 正誤表  
   
-p.325  
-誤  
-https://github.com/hideo7suzuki/parigp-h7s-functions/h7s-functions.gp  
-正  
-https://github.com/hideo7suzuki/parigp-h7s-functions/blob/main/h7s-functions.gp  
-  
-p.334  
-誤  
-https://github.com/hideo7suzuki/parigp-h7s-AES/h7s-AES.gp  
-正  
-https://github.com/hideo7suzuki/parigp-h7s-AES/blob/main/h7s-AES.gp  
-  
 p.49  
 誤  
 1個の解x   
@@ -99,6 +87,18 @@ X
 [1 1 0 1 0 0 1]  
 [1 1 1 0 1 0 0]  
 [1 1 1 1 1 1 1]  
+  
+p.325  
+誤  
+https://github.com/hideo7suzuki/parigp-h7s-functions/h7s-functions.gp  
+正  
+https://github.com/hideo7suzuki/parigp-h7s-functions/blob/main/h7s-functions.gp  
+  
+p.334  
+誤  
+https://github.com/hideo7suzuki/parigp-h7s-AES/h7s-AES.gp  
+正  
+https://github.com/hideo7suzuki/parigp-h7s-AES/blob/main/h7s-AES.gp  
   
 p.344 [Ubuntu (Linux) 用sagemath package(pkg) のinstall]  
 が大幅に改訂されたので  
