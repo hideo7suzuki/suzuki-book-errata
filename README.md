@@ -19,8 +19,8 @@ p.49
 1個の解x   
 d個の解x  
 正  
-1個の解$x$   
-d個の解$x$  
+1個の解$x$   <-- TeXソース
+d個の解$x$   <-- TeXソース
 
 p.68 §1.14.1 の下から4行目  
 誤  
@@ -57,6 +57,18 @@ p.197 脚注 15
 https://www.ipa.go.jp/security/pki/084.html  
 正  
 https://web.archive.org/web/20200130073335/https://www.ipa.go.jp/security/pki/084.html  
+  
+p.241 (3.2.4)式
+誤
+1 \leq    <-- TeXソース
+正
+0 \leq    <-- TeXソース
+  
+p.241 (3.2.5)式
+誤
+1 \leq    <-- TeXソース
+正
+0 \leq    <-- TeXソース
   
 p.262 下から2行目  
 誤  
