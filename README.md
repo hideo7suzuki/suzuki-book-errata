@@ -106,6 +106,12 @@ X
 [1 1 1 0 1 0 0]  
 [1 1 1 1 1 1 1]  
   
+p.311 [A.2.11]  
+誤  
+if,while,until,forでは条件式aが真のときseqを処理する.   
+正  
+if,while,forでは条件式aが真のときseqを処理する. untilでは条件式aが偽のときseqを処理する.   
+  
 p.325  
 誤  
 https://github.com/hideo7suzuki/parigp-h7s-functions/h7s-functions.gp  
