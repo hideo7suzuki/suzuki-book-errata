@@ -148,7 +148,7 @@ p.345 8行目と9行目の2箇所
 p.345 [MacOS用]の下3行分. 4,5行目はそのまま.  
 誤  
 1. https://doc.sagemath.org/html/en/installation/index.html の MacOS → No  
-   development:の下にある  
+   development:の下にある
 2. binary build of SageMath をクリックして,  
 正  
 1. https://github.com/3-manifolds/Sage_macOS/releases で,  
