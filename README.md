@@ -22,6 +22,44 @@ d個の解x
 1個の解$x$   <-- TeXソース  
 d個の解$x$   <-- TeXソース  
 
+p.56 下のstep 1  
+誤  
+MALL=1;  
+for(i=1,3,MALL = MALL * m[i])  
+正  
+MALL=1;  
+for(i=1,length(m),MALL = MALL * m[i])  
+  
+p.56 下のstep 2  
+誤  
+M = vector(3);  
+for(i=1,3,M[i] = MALL / m[i]); M  
+正  
+M = vector(length(m));  
+for(i=1,length(m),M[i] = MALL / m[i]); M  
+  
+p.57 1,2行目  
+誤  
+MINV = vector(3);  
+for(i=1,3,MINV[i] = lift( Mod(M[i], m[i])^-1 )); MINV  
+正  
+MINV = vector(length(m));  
+for(i=1,length(m),MINV[i] = lift( Mod(M[i], m[i])^-1 )); MINV  
+  
+p.57 step 4  
+誤  
+MMINV = vector(3);  
+for(i=1,3,MMINV[i] = lift(Mod(M[i] * MINV[i], MALL))); MMINV  
+正  
+MMINV = vector(length(m));  
+for(i=1,length(m),MMINV[i] = lift(Mod(M[i] * MINV[i], MALL))); MMINV  
+  
+p.60   
+誤  
+[問1.12.4]  
+正  
+[問1.12.4](解法(3)で解く)  
+  
 p.68 §1.14.1 の下から4行目  
 誤  
 最大位奇数    
@@ -69,6 +107,22 @@ p.241 (3.2.5)式
 1 \leq    <-- TeXソース  
 正  
 0 \leq    <-- TeXソース  
+  
+p.246 17,18行目  
+誤  
+エントロピー H は  
+H=0; for(i=1,4,H -= q[i]*log(q[i])/log(2)); H  
+正  
+エントロピー H は  
+H=0; for(i=1,length(q),H -= q[i]*log(q[i])/log(2)); H  
+  
+p.247 8,9行目  
+誤  
+平均符号長 n は  
+n=0; for(i=1,4,n+=q[i]*len[i]); n  
+正  
+平均符号長 n は  
+n=0; for(i=1,length(q),n+=q[i]*len[i]); n  
   
 p.262 下から2行目  
 誤  
