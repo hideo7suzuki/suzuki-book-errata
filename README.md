@@ -178,14 +178,31 @@ https://github.com/hideo7suzuki/parigp-h7s-AES/h7s-AES.gp
 正  
 https://github.com/hideo7suzuki/parigp-h7s-AES/blob/main/h7s-AES.gp  
   
-p.344 [Ubuntu (Linux) 用sagemath package(pkg) のinstall]  
-が大幅に改訂されたので  
-https://doc.sagemath.org/html/en/installation/index.html  
-の  
-Linux  
-の  
-No development  
-の項目を参照  
+p.344 [Ubuntu (Linux) 用sagemath package(pkg) のinstall]の下  
+誤  
+aptコマンド...の行から  
+5. の行まで  
+  
+正  
+1.  https://doc.sagemath.org/html/en/installation/index.html  
+    の  
+    Linux  
+    の  
+    No development  
+    の項目を参照  
+
+p.344 下から1行目  
+誤  
+もし, 3. で  
+正  
+もし,  
+
+p.345 1〜13行目の行先頭のラベル  
+誤  
+3b. 4b. 4c. 4d. 4e. 4f. 4g. 4h. 5.  
+正  
+1. 2. 3. 4. 5. 6. 7. 8. 9.  
+に置き換え  
   
 p.345 5行目  
 誤  
@@ -199,6 +216,12 @@ p.345 8行目と9行目の2箇所
 正  
 10.6  
 
+p.345 [Windows用]の下の項目 4. の行    
+誤  
+用の 1,2,3 で  
+正  
+用の 1 で  
+  
 p.345 [MacOS用]の下3行分. 4,5行目はそのまま.  
 誤  
 https://doc.sagemath.org/html/en/installation/index.html の MacOS → No    <-- この行の先頭は 1.  
